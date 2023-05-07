@@ -155,10 +155,10 @@ Documented commands (type help <topic>):
 ## Bugs
 No known bugs at this time. 
 
-
-OBOBOB## AUTHORS:
-DOUGLOUS SOBEI
+## Authors
+DOUGLOUS SOBEI 
 MERCY iGWE
 
+Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection.
+Public Domain. No copy write protection. i
