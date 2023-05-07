@@ -157,8 +157,8 @@ No known bugs at this time.
 
 ## Authors
 DOUGLOUS SOBEI 
-MERCY iGWE
 
-Second part of Airbnb: Joann Vuong
+MERCY IGWE
+
 ## License
 Public Domain. No copy write protection. i
